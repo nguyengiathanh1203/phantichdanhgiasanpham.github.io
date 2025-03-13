@@ -4,9 +4,9 @@
 ## Thành Viên & Liên Hệ  
 | STT | Họ và Tên | Email | Vai trò |
 |----|----------|-------------------|----------|
-| 1  | Nguyễn Quang Dương   |   | Trưởng nhóm  |
-| 2  | Nguyễn  Gia Thành    |   |              |
-| 3  | Nguyễn Dương Khang   |   |              |
+| 1  | Nguyễn Quang Dương   |  ngquangduong9a11@gmail.com | Trưởng nhóm  |
+| 2  | Nguyễn  Gia Thành    |  | Thành viên   |
+| 3  | Nguyễn Dương Khang   |  ndkhang01082005@gmail.com | Thành viên   |
 
 ## Kế Hoạch Dự Kiến  
 | Ngày | Công Việc | Trạng Thái |
@@ -14,6 +14,7 @@
 | 12/03 | Tạo github của đề tài   | Đã hoàn thành  |
 | 20/03 | Thu thập dữ liệu đề tài | Đang thực hiện |
 | 28/03 | Tiền xử lý dữ liệu      | Chưa bắt đầu   |
+| 06/04 | Bắt đầu thực hiện các chuong trình nhỏ      | Chưa bắt đầu   |
 | 12/05 | Huấn luyện mô hình      | Chưa bắt đầu   |
 
 ## Liên Kết  
