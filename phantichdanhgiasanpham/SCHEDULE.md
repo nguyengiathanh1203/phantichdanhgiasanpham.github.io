@@ -5,7 +5,7 @@
 | STT | Họ và Tên | Email | Vai trò |
 |----|----------|-------------------|----------|
 | 1  | Nguyễn Quang Dương   |  ngquangduong9a11@gmail.com | Trưởng nhóm  |
-| 2  | Nguyễn  Gia Thành    |  tpo837340@gmail.cpm| Thành viên   |
+| 2  | Nguyễn  Gia Thành    |  tpo837340@gmail.com| Thành viên   |
 | 3  | Nguyễn Dương Khang   |  ndkhang01082005@gmail.com | Thành viên   |
 
 ## Kế Hoạch Dự Kiến  
