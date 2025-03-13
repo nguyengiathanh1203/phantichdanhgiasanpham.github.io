@@ -12,6 +12,7 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 - Python  (Pandas, Scikit-learn, TensorFlow)  
 - Jupyter Notebook   
 - GitHub Actions  (CI/CD)  
-
+🔹 **Nguồn thu thập dữ liệu:**
+- Shopee, Tiki, Sendo, Kaggle,... 
 ---
 
