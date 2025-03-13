@@ -14,6 +14,10 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 - GitHub Actions  (CI/CD)
 
 🔹 **Nguồn thu thập dữ liệu:**
-- Shopee, Tiki, Sendo, Kaggle,... 
+- Shopee, Tiki, Sendo, Kaggle,...
+
+🔹 **Các tài liệu hỗ trợ:**
+- Machine Learning Python to Mastery.
+- Deep Learning for Python.
 ---
 
