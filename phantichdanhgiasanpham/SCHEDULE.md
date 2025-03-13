@@ -14,7 +14,7 @@
 | 12/03 | Tạo github của đề tài   | Đã hoàn thành  |
 | 20/03 | Thu thập dữ liệu đề tài | Đang thực hiện |
 | 28/03 | Tiền xử lý dữ liệu      | Chưa bắt đầu   |
-| 12/05 | Huấn luyện mô hình      | Hoàn thành     |
+| 12/05 | Huấn luyện mô hình      | Chưa bắt đầu   |
 
 ## Liên Kết  
 - [Lịch trình chi tiết](schedule.xlsx)  
