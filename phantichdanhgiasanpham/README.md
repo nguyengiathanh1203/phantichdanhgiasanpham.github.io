@@ -16,8 +16,13 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 🔹 **Nguồn thu thập dữ liệu:**
 - Shopee, Tiki, Sendo, Kaggle,...
 
+🔹 **Phương pháp lấy dữ liệu:**
+- Web Scraping, API, Kaggle.
+
 🔹 **Các tài liệu hỗ trợ:**
 - Machine Learning Python to Mastery.
 - Deep Learning for Python.
+
+
 ---
 
