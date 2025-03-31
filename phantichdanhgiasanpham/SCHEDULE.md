@@ -13,9 +13,9 @@
 |------|----------|------------|
 | 12/03 | Tạo github của đề tài   | Đã hoàn thành  |
 | 12/03 | Học các phương thức tạo ra chuong trình (Python & Machine Learning & Deep Learning) | Đang thực hiện |
-| 20/03 | Thu thập dữ liệu đề tài | Đang thực hiện |
-| 20/03 | Chuẩn bị đề cuong đề tài | Đang thực hiện |
-| 28/03 | Tiền xử lý dữ liệu      | Chưa bắt đầu   |
+| 20/03 | Thu thập dữ liệu đề tài | Đã hoàn thành |
+| 20/03 | Chuẩn bị đề cương đề tài | ĐÃ hoàn thành |
+| 28/03 | Tiền xử lý dữ liệu      | Đang thực hiện   |
 | 06/04 | Bắt đầu thực hiện các chương trình nhỏ      | Chưa bắt đầu   |
 | 12/05 | Huấn luyện mô hình      | Chưa bắt đầu   |
 
