@@ -14,10 +14,10 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 - GitHub Actions  (CI/CD)
 
 🔹 **Nguồn thu thập dữ liệu:**
-- Shopee, Tiki, Sendo, Kaggle,...
+- Kaggle (các sản phẩm tính từ 2012)
 
 🔹 **Phương pháp lấy dữ liệu:**
-- Web Scraping, API, Kaggle.
+- Sử dụng thư viện Pandas lấy dữ liệu từ file csv (dataset).
 
 🔹 **Các tài liệu hỗ trợ:**
 - Machine Learning Python to Mastery.
