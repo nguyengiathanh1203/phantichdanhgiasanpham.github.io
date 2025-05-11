@@ -39,6 +39,7 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 - Ứng dụng AI vào trong việc thu thập và xử lý dư liệu.
 - Sử dụng Webscapping để lấy dữ liệu trực tiếp từ các đường dẫn sản phẩm.
 
+## Mô hình ban đầu
 
 ---
 
