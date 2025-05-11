@@ -2,15 +2,15 @@
 # Kế Hoạch Dự Án 
 
 ## Thành Viên & Liên Hệ  
-| STT | MSSV | Họ và Tên | Email | Vai trò |
-|----|----------|-------------------|----------|
-| 1  | 3121560024 |Nguyễn Quang Dương   |  ngquangduong9a11@gmail.com | Trưởng nhóm  |
-| 2  | 3124720066 |Nguyễn  Gia Thành    |  giathanhnguyen2005@gmail.com| Thành viên   |
-| 3  | 3123420151 |Nguyễn Dương Khang   |  ndkhang01082005@gmail.com | Thành viên   |
+| STT | MSSV       | Họ và Tên           | Email                          | Vai trò       |
+|-----|------------|---------------------|--------------------------------|----------------|
+| 1   | 3121560024 | Nguyễn Quang Dương  | ngquangduong9a11@gmail.com     | Trưởng nhóm    |
+| 2   | 3124720066 | Nguyễn Gia Thành    | giathanhnguyen2005@gmail.com   | Thành viên     |
+| 3   | 3123420151 | Nguyễn Dương Khang  | ndkhang01082005@gmail.com      | Thành viên     |
 
 ## Bảng phân công   
 | STT | Họ và Tên | Nhiệm vụ |
-|----|----------|-------------------|----------|
+|----|----------|-------------------|
 |1|Nguyễn Quang Dương|Thu thập và Tiền xử lý dữ liệu|
 |2|Nguyễn Dương Khang|EDA và Xây dựng mô hình|
 |3|Nguyễn Gia Thành|Viết báo cáo đánh giá mô hình|
