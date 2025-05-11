@@ -5,7 +5,7 @@
 | STT | Họ và Tên | Email | Vai trò |
 |----|----------|-------------------|----------|
 | 1  | Nguyễn Quang Dương   |  ngquangduong9a11@gmail.com | Trưởng nhóm  |
-| 2  | Nguyễn  Gia Thành    |  tpo837340@gmail.com| Thành viên   |
+| 2  | Nguyễn  Gia Thành    |  giathanhnguyen2005@gmail.com| Thành viên   |
 | 3  | Nguyễn Dương Khang   |  ndkhang01082005@gmail.com | Thành viên   |
 
 ## Kế Hoạch Dự Kiến  
@@ -15,9 +15,9 @@
 | 12/03 | Học các phương thức tạo ra chuong trình (Python & Machine Learning & Deep Learning) | Đang thực hiện |
 | 20/03 | Thu thập dữ liệu đề tài | Đã hoàn thành |
 | 20/03 | Chuẩn bị đề cương đề tài | ĐÃ hoàn thành |
-| 28/03 | Tiền xử lý dữ liệu      | Đang thực hiện   |
-| 06/04 | Bắt đầu thực hiện các chương trình nhỏ      | Chưa bắt đầu   |
-| 12/05 | Huấn luyện mô hình      | Chưa bắt đầu   |
+| 28/03 | Tiền xử lý dữ liệu      | Đã hoàn thành   |
+| 06/04 | Bắt đầu thực hiện các chương trình nhỏ      | Đã hoàn thành   |
+| 12/05 | Xây dựng và huấn luyện mô hình      | Đang thực hiện|
 
 ## Liên Kết  
 - [Lịch trình chi tiết](schedule.xlsx)  
