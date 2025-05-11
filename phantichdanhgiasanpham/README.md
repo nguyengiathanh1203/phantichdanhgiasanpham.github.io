@@ -17,7 +17,7 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 - Kaggle (các sản phẩm tính từ 2012)
 
 🔹 **Phương pháp lấy dữ liệu:**
-- Sử dụng thư viện Pandas lấy dữ liệu từ file csv (dataset).
+- Sử dụng thư viện Pandas lấy dữ liệu từ file csv (review.csv).
 
 🔹 **Các tài liệu hỗ trợ:**
 - Machine Learning Python to Mastery.
