@@ -19,6 +19,13 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 🔹 **Phương pháp lấy dữ liệu:**
 - Sử dụng thư viện Pandas lấy dữ liệu từ file csv (review.csv).
 
+🔹 **Mô hình sử dụng:**
+- Naive Bayes (https://www.researchgate.net/publication/339176682_Sentiment_Analysis_Using_Naive_Bayes_Algorithm_Of_The_Data_Crawler_Twitter).
+- LSTM
+(https://www.sciencedirect.com/science/article/pii/S1877050922024930).
+- Logistic Regression
+(https://www.researchgate.net/publication/353514662_Sentimental_Analysis_using_Logistic_Regression?utm_source=chatgpt.com).
+
 🔹 **Các tài liệu hỗ trợ:**
 - Machine Learning Python to Mastery.
 - Deep Learning for Python.
