@@ -11,11 +11,11 @@
 ## Bảng phân công   
 | STT | Họ và Tên | Nhiệm vụ |
 |----|----------|-------------------|
-|1|Nguyễn Quang Dương|Thu thập và Tiền xử lý dữ liệu|
-|2|Nguyễn Dương Khang|EDA và Xây dựng mô hình|
+|1|Nguyễn Dương Khang và Nguyễn Quang Dương|Thu thập và Tiền xử lý dữ liệu|
+|2|Cả nhóm|EDA và Xây dựng mô hình|
 |3|Nguyễn Gia Thành|Viết báo cáo đánh giá mô hình|
 
-- Lưu ý : CÁC THÀNH VIÊN PHẢI LÀM ĐÚNG NHIỆM VỤ ĐƯỢC GIAO ( ~80% ) VÀ CẢ NHÓM LÀM CÙNG NHAU ( PHẦN CÒN LẠI )
+- Lưu ý : CÁC THÀNH VIÊN PHẢI LÀM ĐÚNG NHIỆM VỤ ĐƯỢC GIAO ( ~60% ) VÀ CẢ NHÓM LÀM CÙNG NHAU ( ~40% )
   
 ## Kế Hoạch Dự Kiến  
 | Ngày | Công Việc | Trạng Thái |
