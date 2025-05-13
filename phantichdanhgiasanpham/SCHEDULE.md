@@ -27,6 +27,7 @@
 | 28/03 | Tiền xử lý dữ liệu      | Đã hoàn thành   |
 | 06/04 | Bắt đầu thực hiện các chương trình nhỏ      | Đã hoàn thành   |
 | 12/05 | Xây dựng và huấn luyện mô hình      | Đang thực hiện|
+| 12/05 | Viết báo cáo và chuẩn bị slide, poster      | Đang thực hiện|
 
 ## Liên Kết  
 - [Lịch trình chi tiết](schedule.xlsx)  
