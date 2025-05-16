@@ -13,6 +13,7 @@
 |----|----------|-------------------|
 |1|Nguyễn Dương Khang và Nguyễn Quang Dương|Thu thập và Tiền xử lý dữ liệu|
 |2|Cả nhóm|EDA và Xây dựng mô hình|
+|2|Cả nhóm|Cải tiến mô hình|
 |3|Nguyễn Gia Thành|Viết báo cáo đánh giá mô hình|
 
 - Lưu ý : CÁC THÀNH VIÊN PHẢI LÀM ĐÚNG NHIỆM VỤ ĐƯỢC GIAO ( ~60% ) VÀ CẢ NHÓM LÀM CÙNG NHAU ( ~40% )
@@ -26,7 +27,8 @@
 | 20/03 | Chuẩn bị đề cương đề tài | ĐÃ hoàn thành |
 | 28/03 | Tiền xử lý dữ liệu      | Đã hoàn thành   |
 | 06/04 | Bắt đầu thực hiện các chương trình nhỏ      | Đã hoàn thành   |
-| 12/05 | Xây dựng và huấn luyện mô hình      | Đang thực hiện|
+| 12/05 | Xây dựng và huấn luyện mô hình      | Đã hoàn thành|
+| 12/05 | Nâng cấp vả cải tiến hiệu suất mô hình      | Đã hoàn thành|
 | 12/05 | Viết báo cáo và chuẩn bị slide, poster      | Đang thực hiện|
 
 ## Liên Kết  
