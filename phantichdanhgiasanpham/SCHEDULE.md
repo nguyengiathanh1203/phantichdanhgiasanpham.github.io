@@ -6,7 +6,7 @@
 |-----|------------|---------------------|--------------------------------|----------------|
 | 1   | 3121560024 | Nguyễn Quang Dương  | ngquangduong9a11@gmail.com     | Trưởng nhóm    |
 | 2   | 3124720066 | Nguyễn Gia Thành    | giathanhnguyen2005@gmail.com   | Thành viên     |
-| 3   | 3123420151 | Nguyễn Dương Khang  | ndkhang01082005@gmail.com      | Thành viên     |
+| 3   | 3123410151 | Nguyễn Dương Khang  | ndkhang01082005@gmail.com      | Thành viên     |
 
 ## Bảng phân công   
 | STT | Họ và Tên | Nhiệm vụ |
