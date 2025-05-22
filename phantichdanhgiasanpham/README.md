@@ -34,6 +34,14 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 - Machine Learning Python to Mastery.
 - Deep Learning for Python.
 
+🔹 **Kết quả đạt được:**
+![image](https://github.com/user-attachments/assets/8c7ca68f-42a4-42fe-9a1d-b58d4ebbb3fb)
+
+![image](https://github.com/user-attachments/assets/903d1070-7155-42ac-a582-1a3772bdeed7)
+
+Độ đo đánh giá: độ đo (metric) của bài là độ chính xác ( accuracy )
+![image](https://github.com/user-attachments/assets/7b1593b6-0305-4465-b3f1-57d79bec53da)
+
 
 🔹 **Hướng phát triển trong tương lai:**
 - Ứng dụng AI vào trong việc thu thập và xử lý dư liệu.
