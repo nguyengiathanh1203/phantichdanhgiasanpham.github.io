@@ -29,7 +29,7 @@
 | 06/04 | Bắt đầu thực hiện các chương trình nhỏ      | Đã hoàn thành   |
 | 12/05 | Xây dựng và huấn luyện mô hình      | Đã hoàn thành|
 | 12/05 | Nâng cấp vả cải tiến hiệu suất mô hình      | Đã hoàn thành|
-| 12/05 | Viết báo cáo và chuẩn bị slide, poster      | Đang thực hiện|
+| 12/05 | Viết báo cáo và chuẩn bị slide, poster, UI      | Đã hoàn thành|
 
 ## Liên Kết  
 - [Lịch trình chi tiết](schedule.xlsx)  
