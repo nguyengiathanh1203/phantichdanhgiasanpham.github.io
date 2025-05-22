@@ -37,9 +37,8 @@ Dự án này tập trung vào việc thu thập, xử lý và phân tích dữ 
 
 🔹 **Hướng phát triển trong tương lai:**
 - Ứng dụng AI vào trong việc thu thập và xử lý dư liệu.
+- Tìm hiểu các mô hình mới như BERT hoặc biến thể BiLSTM.
 - Sử dụng Webscapping để lấy dữ liệu trực tiếp từ các đường dẫn sản phẩm.
 
-## Mô hình ban đầu
 
----
 
